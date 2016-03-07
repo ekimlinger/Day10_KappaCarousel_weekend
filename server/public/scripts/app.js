@@ -18,7 +18,7 @@ $(document).ready(function(){
 var studentSpotlight = 1;
 var counter = 1;
 const FADE_TIME = 500;        // Time between each slide
-const DISPLAY_TIME = 7000;    // Show time
+const DISPLAY_TIME = 10000;    // Show time
 function appendDom(jsonFile){
   var kappaArray = jsonFile.kappa;
 
