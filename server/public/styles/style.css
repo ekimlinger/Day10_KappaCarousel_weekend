@@ -35,10 +35,11 @@ body{
 
 .student .shoutout{
   position: absolute;
-  left: 20%;
-  right: 20%;
+  left: 30%;
+  right: 30%;
   bottom: 25px;
   margin:0;
+  background-color: rgba(0,0,0,0.6);
 }
 .student{
   color: white;
